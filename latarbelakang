@@ -1,0 +1,28 @@
+#LatarBelakang
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+<div class="tugas">
+    <div class="header-text-tugas">
+        <h2>Beranda / Profil / Latar Belakang</h2>
+    </div>
+</div>
+
+<div class="container  d-flex justify-content-center">
+    <div class="jaraklatarbelakang">
+        <div class="card bg-light mb-3" style="padding:8px; width: 100%; box-shadow: 0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+            <div class="card-header">Latar Belakang</div>
+            <div class="card-body" style="font-size:14px;">
+                <p class="card-profil" style="font-size:16px; font-weight:600;">Profil Singkat PPID Kabupaten Pemalang</p>
+                <p class="card-text" style="padding:8px">
+                    Hak untuk memperoleh informasi merupakan hak asasi manuasia yang mendasar dalam rangka mewujudkan penyelenggaraan pemerintahan yang baik, terbuka dan akuntabel. Keberadaan Undang - Undang tentang Keterbukaan Informasi Publik sangat penting sebagai landasan hukum yang berkaitan dengan (1) hak setiap Orang untuk memperoleh Informasi; (2) kewajiban Badan Publik menyediakan dan melayani permintaan Informasi secara cepat, tepat waktu, biaya ringan/proporsional, dan cara sederhana; (3) pengecualian bersifat ketat dan terbatas; (4) kewajiban Badan Publik untuk membenahi sistem dokumentasi dan pelayanan Informasi.</p>
+                <p class="card-text" style="padding:8px">
+                    Pelaksanaan Keterbukaan Informasi Publik oleh Badan Publik dapat berjalan efektif dan efisien apabila dilengkapi dengan infrastruktur, salah satunya Pejabat Pengelola Informasi dan Dokumentasi (PPID). UU KIP Pasal 1 angka 9 menyatakan "Pejabat Pengelola Informasi dan Dokumentasi adalah pejabat yang bertanggungjawab dibidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik."</p>
+                <p class="card-text" style="padding:8px">
+                    Pemerintah Kabupaten Pemalang sebagai salah satu Badan Publik telah membentuk PPID melalui Surat Keputusan Bupati Pemalang Nomor 188.4/221/TAHUN 2018 tanggal 8 Februari 2018 tentang Pembentukan Pengelola Layanan Informasi dan Dokumentasi Pemerintah Kabupaten Pemalang Tahun 2018</p>
+            </div>
+        </div>
+    </div>
+</div>
+<?= $this->endsection(); ?>
