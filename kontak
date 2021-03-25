@@ -1,0 +1,34 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+<div class="tugas">
+    <div class="header-text-tugas">
+        <h2>Kontak</h2>
+    </div>
+</div>
+
+<div class="container d-flex justify-content-center">
+    <div class="card bg-light mb-3" style="padding:6px; width: 100%; box-shadow: 0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+        <div class="maps">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9759782147057!2d109.37823461376112!3d-6.8934765950188455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fdad49d1b7897%3A0x8e7c2aa61b2612f6!2sKantor%20Dinas%20Komunikasi%20dan%20Informatika%20Kabupaten%20Pemalang!5e0!3m2!1sid!2sid!4v1616469613756!5m2!1sid!2sid" width="1090" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="container d-flex justify-content-center">
+    <div class="jaraklatarbelakang" style="width:100%">
+        <div class="card text-black  " style="padding:8px; box-shadow:0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+            <div class="justify-content-center card-header  text-black">PPID PEMALANG</div>
+            <div class="card-body">
+                <h5>PPID PEMALANG</h5>
+                <p>Jl. Gatot Subroto No.31 B Pemalang 52319 Jateng</br>
+                    Tlp. (028) 321-043<br>
+                    <a href="mailto:ppid@pemalangkab.go.id">ppid@pemalangkab.go.id</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<?= $this->endSection(); ?>
