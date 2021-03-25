@@ -1,0 +1,28 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="tugas">
+    <div class="header-text-tugas">
+        <h2>Beranda/ Layanan/ Tata Cara Pengajuan Keberatan</h2>
+    </div>
+</div>
+
+<div class="container  d-flex justify-content-center">
+    <div class="jaraklatarbelakang">
+        <div class="card bg-light mb-3" style="padding:8px; width: 100%; box-shadow: 0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+            <div class="card-header" style="background-color: #3498db; color:whitesmoke">Tata Cara Pengajuan Keberatan</div>
+            <div class="card-body" style="font-size:14px;">
+                <p class="card-profil" style="font-size:16px; font-weight:600;">Berdasarkan Undang-Undang No. 14 Tahun 2018 tentang Keterbukaan Informasi Publik :</p>
+                <p class="card-text" style="padding:8px">
+                    1. Apabila pemohon informasi tidak puas dengan Keputusan Badan Publik (misal: menolak permintaan Anda atau memberikan hanya sebagian dari yang diminta), maka pemohon informasi dapat mengajukan keberatan kepada atasan PPID dalam jangka waktu 30 (tiga puluh) hari kerja sejak permohonan informasi ditolak/ditemukannya alasan keberatan lainnya. Atasan PPID wajib memberikan tanggapan tertulis atas keberatan yang diajukan Pemohon Informasi selambat-lambatnya (tiga puluh) hari kerja sejak diterima/dicatatnya pengajuan keberatan dalam register keberatan.</p>
+                <p class="card-text" style="padding:8px">
+                    2. Apabila Pemohon Informasi tidak puas dengan keputusan Atasan PPID, maka pemohon informasi dapat mengajukan keberatan kepada Komisi Informasi dalam jangka 14 (empat belas) hari kerja sejak diterimanya keputusan atasan PPID oleh Pemohon Informasi Publik.
+                </p>
+                <div class="container  d-flex justify-content-center">
+                    <button type="submit" class="btn btn-primary" style="border-radius: 20px;">Ubah Formulir Keberatan</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<?= $this->endSection(); ?>
