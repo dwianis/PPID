@@ -1,0 +1,89 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="tugas">
+    <div class="header-text-tugas">
+        <h2>Beranda / Profil / Struktur PPID</h2>
+    </div>
+</div>
+
+<div class="container  d-flex justify-content-center">
+    <div class="jaraklatarbelakang">
+        <div class="card bg-light mb-3" style="padding:8px; width: 100%; box-shadow: 0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+            <div class="card-header">Struktur PPID</div>
+            <div class="card-body" style="font-size:14px;">
+                <p class="card-profil" style="font-size:16px; font-weight:600;">Profil Singkat PPID Kabupaten Pemalang</p>
+                <p class="card-text" style="padding:8px">
+                    Pembina
+
+                    :
+
+                    Bupati Pemalang</p>
+                <p class="card-text" style="padding:8px">
+                    Pembina
+
+                    :
+
+                    Wakil Bupati Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Pengarah
+
+                    :
+
+                    Sekretaris Daerah Kabupaten Pemalang selaku Atasan PPID
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Tim Pertimbangan
+
+                    :
+
+                    Asisten Sekda, Kepala Perangkat Daerah, Kabag Hukum Setda Kabupaten Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    PPID Utama
+
+                    :
+
+                    Kepala Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    PPID Pembantu
+
+                    :
+
+                    Sekretaris Perangkat Daerah, Kasubbag TU, Direktur RSUD, Direktur BUMD
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Sekretariat PLID
+
+                    :
+
+                    Kepala Bidang Pengelolaan Informasi dan Komunikasi Publik (PIKP) Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Bidang Pengolahan Data dan Klasifikasi Informasi
+
+                    :
+
+                    Kepala Seksi Informasi Publik pada Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Bidang Pelayanan Informasi dan Dokumentasi
+
+                    :
+
+                    Kepala Seksi Komunikasi Publik pada Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                </p>
+                <p class="card-text" style="padding:8px">
+                    Bidang Fasilitasi Sengketa Informasi
+
+                    :
+
+                    Kasubbag Bantuan Hukum dan HAM pada Bagian Hukum Setda Kabupaten Pemalang
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<?= $this->endSection(); ?>
