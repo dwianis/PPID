@@ -1,0 +1,48 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Pohon Randu Tumbang Timpa Mobil di Pemalang, 4 Orang Tewas </h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+        <img src="/img/tab.jpeg" height="100%">
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Pemalang - Satu unit mobil Avanza tiba-tiba tertimpa pohon randu tumbang di Jalan Raya Pemalang-Randudongkal, saat tengah melaju. Akibatnya, empat penumpang tewas, dan empat penumpang lainnya luka-luka.
+        </p>
+
+        <p>
+            Peristiwa tersebut terjadi pukul 14.30 WIB tadi. Tepatnya di Jalan Raya Pemalang-Randudongkal, tepatnya di Desa Semingkir, Kecamatan Randudongkal, Pemalang.
+        </p>
+
+        <p>
+            "Ya tadi sore ada kecelakaan, sebuah mobil tertimpa pohon, saat melaju dari arah Selatan ke Utara (Randudongkal-Pemalang)," kata Kanit Laka Satlantas Polres Pemalang, Iptu Nuryadi saat dimintai konfirmasi via telepon, Sabtu (6/3/2021).
+        </p>
+
+        <p>
+            Identitas kempat korban meninggal yakni Apriyanto (40) yang juga pengemudi mobil, Pandu (70), Agil Trias (25), Atta (6), keempatnya warga warga Desa Karangtengah, Kecamatan Cilongok, Banyumas.
+
+            Kemudian empat korban luka-luka yakni, Kuswati (68), Ike (35), Arifian Hananta (12), Abinanta Kenzo Ananta (7). Semua korban kemudian lalu dievakuasi ke Rumah Sakit Mardotillah, Randudongkal.
+
+            "Akibat peristiwa itu, empat orang meninggal, dua luka berat dan dua penumpang lainya luka ringan," tambah Nuryadi.
+            Peristiwa itu bermula saat kendaraan Avanza warna silver B 2083 UKB yang dikemudikan Apriyanto melaju dari Randudongkal menuju ke Pemalang. Cuaca saat itu tengah hujan lebat.
+
+            "Kendaraan melaju dari arah selatan ke utara pada kondisi hujan lebat. Sesampainya di lokasi kejadian ada pohon randu yang berada di sebelah kiri jalan tumbang kemudian menimpa Kendaraan yang tengah berjalan," jelas Nuryadi.
+
+            Usai menerima laporan tersebut, pihaknya lalu meluncur ke lokasi kejadian. Proses evakuasi kendaraan itu berlangsung cukup lama, mengingat pohon randu yang tumbang berukuran besar.
+
+            "Kita evakuasi dan kita bawa ke rumah sakit Randudongkal. Saat ini, kondisi arus lalulintas lancar, setelah kita evakuasi kendaraan," jelasnya.
+        </p>
+    </div>
+</div>
+<?= $this->endSection(); ?>
