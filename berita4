@@ -1,0 +1,49 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">NIP PPPK Pemalang Sudah di BKD, Harap Sabar Tunggu SK </h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+        <img src="/img/dia.jpg" height="100%">
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            JAKARTA - Sebanyak 334 PPPK (pegawai pemerintah dengan perjanjian kerja) di Kabupaten Pemalang, Jawa Tengah harus bersabar sejenak menunggu NIP, SK, dan SPMT (surat perintah menjalankan tugas).
+        </p>
+
+        <p>
+            Pasalnya, NIP PPPK itu belum sampai ke tangan penerima meski sudah diserahkan oleh Badan Kepegawaian Negara (BKN) kepada pejabat pembina kepegawaian (PPK), dan dilanjutkan ke Badan Kepegawaian Daerah (BKD) pada 29 Januari 2021. "Dari Pemalang belum. NIP, SK dan SPMT belum diserahkan kepada PPPK," kata Koordinator daerah Perkumpulan Honorer K2 Indonesia (PHK2I) Kabupaten Pemalang Junaedi kepada JPNN.com, Jumat (5/1).
+        </p>
+
+        <p>
+            Dia mengaku sangat penasaran dan ingin tahu berapa besaran gaji dan tunjangan yang akan diterima. Sayangnya sampai hari ini sejak terkirimnya NIP dari BKN tanggal 29 Januari 2021, PPPK belum mendapat undangan serahterima SK PPPK dari BKD Pemalang. "Sudah penasaran banget, cuma belum ada undangan resmi dari BKD seperti kawan-kawan dari kabupaten/kota di Jawa Tengah lainnya," ucap Junaedi.
+
+        </p>
+
+        <p>
+            "Pemalang kapan ya terima NIP, SK, dan SPMT. Sedih lihat teman-teman sudah mulai terima pekan depan," keluhnya. Dia menyebutkan, sebenarnya usulan NIP PPPK yang diusulkan PPK sebanyak 337. Namun, tiga orang dinyatakan tidak memenuhi syarat (TMS) sehingga tersisa 334 orang saja.
+
+
+        </p>
+
+        <p>
+            Secara terpisah, Plt Karo Humas BKN Paryono mengungkapkan, biasanya setelah NIP diserahkan ke PPK butuh proses untuk pencetakan.
+
+            Cepat atau lambatnya proses pencetakan dokumen NIP, SK, dan SPMT itu tergantung di Pemda. "Urusan BKN hanya sampai di NIP. Begitu NIP PPPK diserahkan kepada PPK, selanjutnya daerah yang menindaklanjutinya," tandas Paryono.
+
+        </p>
+
+
+    </div>
+</div>
+<?= $this->endSection(); ?>
