@@ -1,0 +1,185 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+
+<div class="berita">
+    <div class="header-text-berita">
+        <h2>Berita Terkini</h2>
+    </div>
+</div>
+
+
+
+<section class="content-allberita ">
+    <!-- =========1============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4">
+            <div class="content-img">
+                <img src="/img/hujan.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Sebagian Pantura Jateng Diprediksi Hujan Lebat Hari Ini</h3>
+                <div class="content-date">
+                    <span>jumat,</span>
+                    <span>26 maret 2021</span>
+                </div>
+                <p>
+                    Hujan lebat masih berpotensi di beberapa wilayah Jawa Tengah hari ini. Bahkan di daerah Pantura dan pegunungan juga berpotensi hujan disertai petir....
+                </p>
+                <p>
+                    <a href="/pages/berita1" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========2============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/sek.jpeg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Uji Coba Sekolah Tatap Muka di Jateng Mulai Digelar April, Ini Daftarnya</h3>
+                <div class="content-date">
+                    <span>Senin,</span>
+                    <span>22 Maret 2021</span>
+                </div>
+                <p>
+                    Uji coba sekolah tatap muka untuk pelajar SMP, SMA, MA, dan SMK akan segera digelar di Jawa Tengah (Jateng). Uji coba sekolah tatap muka ini bakal digelar mulai April mendatang. Mana saja? ...
+                </p>
+                <p>
+                    <a href="/pages/berita2" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========3============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/pohonpmg.jpeg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Cerita di Balik Sepasang Pohon Randu 'Raksasa' di Pemalang</h3>
+                <div class="content-date">
+                    <span>Minggu,</span>
+                    <span>20 Maret 2021</span>
+                </div>
+                <p>
+                    Pemalang - Sepasang pohon randu ukuran besar atau 'raksasa' berdiri berjejer mengapit jalan raya Pemalang-Purbalingga, Kabupaten Pemalang, Jawa Tengah....
+                </p>
+                <p>
+                    <a href="/pages/berita3" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========4============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/dia.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">NIP PPPK Pemalang Sudah di BKD, Harap Sabar Tunggu SK</h3>
+                <div class="content-date">
+                    <span>Jumat,</span>
+                    <span>5 Februari 2021</span>
+                </div>
+                <p>
+                    JAKARTA - Sebanyak 334 PPPK (pegawai pemerintah dengan perjanjian kerja) di Kabupaten Pemalang, Jawa Tengah harus bersabar sejenak menunggu NIP, SK, dan SPMT (surat perintah menjalankan tugas)....
+                </p>
+                <p>
+                    <a href="/pages/berita4" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========5============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/tab.jpeg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Pohon Randu Tumbang Timpa Mobil di Pemalang, 4 Orang Tewas</h3>
+                <div class="content-date">
+                    <span>Sabtu,</span>
+                    <span>6 Maret 2021</span>
+                </div>
+                <p>
+                    Pemalang - Satu unit mobil Avanza tiba-tiba tertimpa pohon randu tumbang di Jalan Raya Pemalang-Randudongkal, saat tengah melaju. Akibatnya, empat penumpang tewas, dan empat penumpang lainnya luka-luka........
+                </p>
+                <p>
+                    <a href="/pages/berita5" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========6============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/bung.jpeg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">2 Bocah Hilang Saat Cari Bunglon di Hutan Pemalang Ditemukan Tewas</h3>
+                <div class="content-date">
+                    <span>Senin,</span>
+                    <span>22 Maret 2021</span>
+                </div>
+                <p>
+                    Pemalang - Dua bocah bernama Dimas (9) dan Helmi (8) di Kabupaten Pemalang, Jawa Tengah, yang hilang usai pamit bermain sejak kemarin sore ditemukan meninggal. Jasad kedua korban ditemukan di kubangan air bekas galian C sekitar pukul 16.30 WIB tadi....
+                </p>
+                <p>
+                    <a href="/pages/berita6" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="pagination">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                </li>
+                <li class="page-item"><a class="page-link" href="/pages/berita">1</a></li>
+                <li class="page-item"><a class="page-link" href="/pages/beritalanjut2">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+
+<?= $this->endSection(); ?>
