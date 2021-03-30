@@ -1,0 +1,54 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Jembatan Penghubung Desa di Pemalang Ambrol, Warga Harus Berputar 65 Km</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam6.jpeg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Pemalang - Jembatan Kali Ayer penghubung dua desa di Kecamatan Randudongkal, Kabupaten Pemalang, Jawa Tengah, ambrol tergerus arus sungai. Warga pun terpaksa berputar sejauh 65 kilometer untuk menuju kota kecamatan.
+            "Pada Rabu (13/1) malam terjadi hujan deras. Kamis (14/1) dini hari kami menerima laporan jembatan amblas," kata Kepala Desa Kejene, Randudongkal, Yus Sulasro, di lokasi jembatan ambrol, Jumat (15/1/2021).
+        </p>
+
+        <p>
+            Jembatan Kali Ayer ini merupakan jembatan penghubung antara Desa Kejene dan Desa Gongseng. Panjang jembatan ini sekitar 30 meter dengan lebar 5 meter. Konstruksi jembatan yang ambrol kedalamannya sekitar 6 meter, dengan lebar 4 meter dan panjang hingga 7 meter.
+
+            "Jembatan tidak bisa dilalui kendaraan roda dua dan roda empat," ujarnya.
+        </p>
+
+        <p>
+            Di lokasi yang sama, Camat Randudongkal, Sis Muhammad, menjelaskan saat ini pihaknya tengah berupaya untuk membuat jembatan darurat. Pihaknya memahami keluhan warga desa setempat yang harus memutar jauh untuk menuju ke kota kecamatan di Randudongkal.
+
+            "Memang jauh memutar, sejauh 65 kilometer, karena jembatan ini tidak bisa dilalui," kata Sis.
+        </p>
+
+        <p>
+            Menurutnya, jembatan tersebut terakhir diperbaiki tahun 2019 lalu. Pihaknya saat ini telah berkoordinasi dengan instansi terkait, dan rencananya minggu ini akan dibuatkan jembatan darurat dari kayu sebagai akses sementara warga desa.
+
+            "Minggu ini, penanganan sementara akan dilakukan secepatnya, akan dibuatkan jembatan darurat, minimal kendaraan roda dua bisa melintas," ujarnya.
+
+            Sementara itu, Dandim 0711 Pemalang, Letkol Irvan Christian Tarigan, menambahkan pihaknya akan mengerahkan anggota untuk membantu pembuatan jembatan darurat.
+        </p>
+
+        <p>
+            "Hari ini kita melakukan pengecekan jembatan yang amblas akibat luapan sungai. Kami akan kerahkan anggota kami untuk membantu dalam pembuatan jembatan ini, agar warga tidak memutar jauh untuk ke Randudongkal," kata Irvan di lokasi yang sama.
+        </p>
+    </div>
+</div>
+
+<?= $this->endSection(); ?>
