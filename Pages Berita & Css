@@ -1,0 +1,125 @@
+ public function berita1()
+    {
+        $data = [
+            'title' => 'Sebagian Pantura Jateng Diprediksi Hujan Lebat Hari Ini'
+        ];
+
+        return view('pages/berita1', $data);
+    }
+
+    public function berita2()
+    {
+        $data = [
+            'title' => 'Uji Coba Sekolah Tatap Muka di Jateng Mulai Digelar April, Ini Daftarnya'
+        ];
+
+        return view('pages/berita2', $data);
+    }
+
+    public function berita3()
+    {
+        $data = [
+            'title' => 'Cerita di Balik Sepasang Pohon Randu  Raksasa  di Pemalang'
+        ];
+
+        return view('pages/berita3', $data);
+    }
+
+
+    public function berita4()
+    {
+        $data = [
+            'title' => 'NIP PPPK Pemalang Sudah di BKD, Harap Sabar Tunggu SK'
+        ];
+
+        return view('pages/berita4', $data);
+    }
+
+    public function berita5()
+    {
+        $data = [
+            'title' => 'Pohon Randu Tumbang Timpa Mobil di Pemalang, 4 Orang Tewas'
+        ];
+
+        return view('pages/berita5', $data);
+    }
+
+
+    public function berita6()
+    {
+        $data = [
+            'title' => '2 Bocah Hilang Saat Cari Bunglon di Hutan Pemalang Ditemukan Tewas'
+        ];
+
+        return view('pages/berita6', $data);
+    }
+
+    public function beritalanjut2()
+    {
+        $data = [
+            'title' => 'Berita 2'
+        ];
+        return view('pages/beritalanjut2', $data);
+    }
+
+    public function berita7()
+    {
+        $data = [
+            'title' => 'Bupati Lakukan Monitoring di Sejumlah TPS'
+        ];
+
+        return view('pages/berita7', $data);
+    }
+
+    public function berita8()
+    {
+        $data = [
+            'title' => 'Bupati Junaedi Monitoring Persiapan Pilkada Serentak'
+        ];
+        return view('pages/berita8', $data);
+    }
+
+
+    public function berita9()
+    {
+        $data = [
+            'title' => 'Prestasi Olahraga Dapat Harumkan Nama Bangsa dan Negara'
+        ];
+        return view('pages/berita9', $data);
+    }
+
+    public function berita10()
+    {
+        $data = [
+            'title' => 'Bupati dan Ketua TP. PKK Adakan Grebeg Pasar'
+        ];
+        return view('pages/berita10', $data);
+    }
+
+    public function berita11()
+    {
+        $data = [
+            'title' => 'Bupati dan Ketua TP PKK Kabupaten Pemalang Terima Penghargaan dari Presiden RI'
+        ];
+        return view('pages/berita11', $data);
+    }
+
+    public function berita12()
+    {
+        $data = [
+            'title' => 'Jembatan Penghubung Desa di Pemalang Ambrol, Warga Harus Berputar 65 Km'
+        ];
+        return view('pages/berita12', $data);
+    }
+    
+    
+    #CSS
+    
+    .img {
+  height: 100%;
+  width: 100%;
+}
+
+.berita1 {
+  padding: 20px;
+}
