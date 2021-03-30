@@ -1,0 +1,45 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Bupati Junaedi Monitoring Persiapan Pilkada Serentak</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam2.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            PEMALANG – Guna mengetahui seberapa jauh kesiapan yang telah dilakukan dalam upaya suksesnya pelaksanaan Pilkada Serentak tahun 2018 di wilyahnya, Bupati Pemalang Junaedi, beserta anggota Forkompinda Kabupaten Pemalang, Ketua KPUD Pemalang, Ketua Bawaslu dan sejumlah Kepala OPD di lingkungan Kabupaten Pemalang, hari ini, Rabu (26/62018), melakukan monitoring persiapan penyelenggaraan Pilgub Jateng 2018, ke sejumlah desa di wilayah Kabupatrn Pemalang.
+
+            Rombongan Bupati yang tergabung dalam tim 1 melakukan tugad monitoring di Desa Pegongsoran. Setibanya di Desa Pegongsoran, rombongan tim 1 melakukan monitoring persiapan pelaksanaan Pilkada serentak di TPS 004 dan TPS 003. Desa Pegongsoran mempunyai Daftar Pemilih Tetap (DPT) sebanyak 3641, yang terbagi dalam 8 TPS.
+
+            Bupati di sela – sela monitoring mengatakan, kegiatan ini dimaksudkan untuk mengetahui sejauh mana persiapan pelaksanaan Pilkada hingga sampai ke tingkat TPS, sehingga diharapkan pada pelaksanaan Pilkada besok dapat berjalan dengan baik.
+        </p>
+
+        <p>
+            “Kami semua ikut bertanggung jawab dalam berlangsungnya pelaksanaan pilkada serentak ini”, kata Junaedi, di dampingi Anģgota Forkompinda Kabupaten Pemalang.
+            Dikatakan, dengan adanya kegiatan ini, diharapkan, pilkada yang merupakan implementasi dari pesta demokrasi bisa berjalan dengan baik.
+
+            “Dengan harapan partisipasi masyarakat bisa maksimal, sehingga tujuan diselenggarakan pilkada dapat berjalan dengan baik ” ,ujar Junaedi.
+        </p>
+        <p>
+            Dalam rangka suksesnya pelaksanaan Pilkada serentak 2018 ini, Pemkab Pemalang, melakukan berbagai upaya, salah satu upaya tersebut, yakni membentuk tim monitoring pelaksanaan Pilkada.
+            Sedangkan untuk kelancaran pelaksanaan tugas persiapan Pilkada ini, Pemkab membentuk empat tim monitoring yang bertugas untuk monitor pelaksanaan Pilkada serentak tahun 2018 ini, di wilayah Kabupaten Pemalang.
+        </p>
+
+    </div>
+</div>
+
+<?= $this->endSection(); ?>
