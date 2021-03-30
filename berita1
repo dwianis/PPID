@@ -1,0 +1,45 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4"> Sebagian Pantura Jateng Diprediksi Hujan Lebat Hari Ini</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/hujan.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Pemalang - Hujan lebat masih berpotensi di beberapa wilayah Jawa Tengah hari ini. Bahkan di daerah Pantura dan pegunungan juga berpotensi hujan disertai petir.
+            BMKG stasiun meteorologi Ahmad Yani Semarang memprakirakan pagi ini pada umumnya cerah berawan dan berawan. Potensi hujan ada di antara siang hingga awal malam.
+        </p>
+
+        <p>
+            "Pagi cerah berawan-berawan. Siang/sore-awal malam potensi hujan ringan-sedang tidak merata dan waktu bervariasi. Potensi hujan sedang-lebat dapat disertai petir/angin kencang di daerah Pantura barat-tengah sisi selatan, pegunungan dan wilayah sekitarnya," kata prakiraan, Triyotomo dalam info cuacanya, Jumat (26/3/2021).
+
+            "Waspada bencana hidrometeorologi seperti banjir, tanah longsor, dan ingin kencang," demikian peringatan dini yang disampaikan.
+        </p>
+
+        <p>
+
+            Berikut prakiraan cuaca Jateng berlaku pukul 07.00-19.00 WIB:
+            Hujan ringan-sedang
+            Cilacap, Kebumen, Purworejo, Klaten, Sukoharjo, Wonogiri, Karanganyar, Sragen, Purwodadi, Blora, Rembang, Kudus, Demak, Kendal, Batang, Pemalang, Brebes, Solo, Semarang, Pekalongan, dan Tegal.
+
+            Hujan sedang-lebat
+            Purwokerto, Purbalingga, Banjarnegara, Wonosobo, Mungkid, Boyolali, Pati, Jepara, Ungaran, Temanggung, Kajen, Slawi, Magelang, Salatiga, Bumiayu, Majenang, dan Ambarawa.
+        </p>
+    </div>
+</div>
+<?= $this->endSection(''); ?>
