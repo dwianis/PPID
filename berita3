@@ -1,0 +1,66 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+
+        <h3 class="mt-4"> Cerita di Balik Sepasang Pohon Randu 'Raksasa' di Pemalang</h3>
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+        <img src="/img/pohonpmg.jpeg" height="100%">
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Pemalang - Sepasang pohon randu ukuran besar atau 'raksasa' berdiri berjejer mengapit jalan raya Pemalang-Purbalinga, Kabupaten Pemalang, Jawa Tengah. Randu yang disebut berusia ratusan tahun itu dinamai randu lanang (pria) dan randu wedok (wanita).
+        </p>
+
+        <p>
+            "Kalau usianya, saya kecil saja pohon randu sudah sebesar ini. Cerita persis tidak tahu. Soalnya diceritakan turun-temurun dan banyak versinya," kata sesepuh warga setempat, Mbah Rais (68), kepada detikcom, Jumat (19/3/2021).
+
+        </p>
+        "Ada yang menyebut randu lanang dan wedok. Ya bisa saja, dari bentuk pohon randu bisa dilihat sendiri," tambahnya.
+
+        Mbah Rais menyebutkan selama ini pohon randu itu dikenal orang berada di wilayah Randudongkal. Padahal, lokasinya masuk Desa Sikasur, Kecamatan Belik.
+
+        Menurut Mbah Rais, randu berumur sekitar ratusan tahun, tingginya lebih dari 40 meter. Sedangkan diameternya bila delapan orang melingkar dengan berpegangan tangan tidak cukup.
+
+        "40 meter lebih ya tingginya. Kalau besarnya, perlu delapan orang bahkan bisa lebih, jika melingkar saling berpegangan tangan," ujarnya.
+        <p>
+            Mbah Rais mengungkapkan jika ada kecelakaan di lokasi sekitar, tidak sedikit warga dari luar daerah yang mengaitkannya dengan sepasang pohon randu tersebut. Namun Mbah Rais menepis anggapan itu karena kondisi jalan memang berliku.
+
+            "Bukan ya. Ya lihat sendiri memang jalannya berliku-liku. Tikungan tajam sebelum dan sesudah pohon randu banyak. Kalau orang tidak tahu kondisi jalan, dan kurang hati-hati ya celaka. Apalagi yang dari atas, langsung turun dan menikung. Biasanya kendaraan memberikan tanda dengan mengklakson," papar Mbah Rais.
+        </p>
+        <p>
+            Sementara itu, Kepala Desa Sikasur, Kusni, mengatakan sepasang pohon randu tersebut terbilang langka jika dilihat dari ukurannya. Di Desa Sikasur ada tiga pohon randu 'raksasa'. Selain sepasang randu jejer, ada juga satu pohon randu serupa yang letaknya cukup jauh yakni di Karangmulya.
+
+            "Tidak ada yang berani tebang. Makanya siapapun harus bareng menjaganya," kata Kusni.
+        </p>
+        <p>
+            Kusni menceritakan, beberapa tahun yang lalu ada warga asal Purwokerto yang penasaran dan mampir saat dini hari untuk mengambil foto di lokasi pohon randu raksasa itu.
+
+            "Beberapa tahun yang lalu, jam satu malam, ada dosen senior dari Purwokerto, ada enam orang, penasaran, malam-malam memfoto randu jejer. Ada penampakan. Ular besar. Ada apinya," katanya.
+
+            "Dikeramatkan warga. Tapi, warga sini tidak tidak ada ritual khusus apapun," jelasnya.
+
+        </p>
+        <p>
+            Kusni menambahkan, pohon randu jejer raksasa akhir-akhir ini memang tengah tren untuk dijadikan lokasi swafoto kalangan muda-mudi.
+
+            "Ya tidak masalah. Hanya saja, dilakukan di lokasi yang aman, mengingat lokasi setempat kan jalannya menikung. Jangan dilakukan di jalan raya. Karena selain mengganggu arus kendaraan juga membahayakan, karena jalan menikung sangat tajam," imbaunya.
+
+            "Saya imbau juga, untuk tidak merusak pohon. Atau mengotori pohon dengan sampah-sampah. Kita harus bersama-sama menjaganya," pungkasnya.
+        </p>
+    </div>
+</div>
+<?= $this->endSection(); ?>
