@@ -1,0 +1,40 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Bupati dan Ketua TP PKK Kabupaten Pemalang Terima Penghargaan dari Presiden RI</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam5.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            PEMALANG – Bupati Pemalang H. Junaedi,SH, MM, dan Ketua TP PKK Kabupaten Pemalang, Hj. Irna Setiawati, SE,MM, kembali menerima penghargaan Mangala Karya Kencana dari Presiden RI Joko Widodo. Penghargaan ini diberikan atas komitmennya dalam program KKBPK (kependudukan, keluarga berencana dan pembangunan keluarga). Pemberian tanda penghargaan dan tanda penghormatan tersebut, diberikan oleh Menko Bidang Pemberdayaan Manusia dan Kebudayaan RI , Puan Maharani, dalam sebuah kegiatan Temu Prestasi, di Bumi Beringin kediaman Gubernur Sulawesi Utara, dalam rangka peringatan harganas XXV tahun 2018, Jumat, (6/7/2018).
+
+            Ada 6 jenis penghargaan yang akan diberikan pada kegiatan ini.
+            Adapun yang pertama Satyalencana pembangunan. Penghargaan ini akan diberikan untuk 21 Gubernur, Walikota dan Bupati Kemudian, Satyalencana Wira Karya, diberikan untuk 2 instansi yakni TP PKK NTB, dan Muslimat NW NTB. Selanjutnya, Mangala Karya Kencana untuk 74 Gubernur, Walikota, Bupati, dan PKK.
+        </p>
+
+        <p>
+            Sedangkan penghargaan Wira Karya Kencana untuk 4 Profesidan penghargaan Dharma Karya Kencana untuk 17 mitra kerja serta penghargaan Cipta karya kencana bagi 2 Mitra kerja.
+
+            Plt Kepala BKKBN, Sigit Priohutomo dalam kesempatan tersebut, mengucapkan terima kasih kepada penerima penghargaan, baik sebagai Kepala daerah, pemerintah, maupun sebagai mitra kerja yang sudah dwngan tulus mampu mendukung BKKBN dalam menggerakkan program – program pembangunan keluarga,. sehingga dapat memenuhi capaianya.
+            Selain itu Sigit menyebutkan, bahwa peringatan Harganas ini, agar dijadikan momentum bersama untuk meningkatkan ketahanan keluarga sehingga diharapkan mendapat generasi yang berkualitas.
+        </p>
+
+    </div>
+</div>
+
+<?= $this->endSection(); ?>
