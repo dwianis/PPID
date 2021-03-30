@@ -1,0 +1,52 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Bupati Lakukan Monitoring di Sejumlah TPS </h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam1.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            PEMALANG – Bupati Pemalang Junaedi, dan Wakil Bupati Pemalang Martono, bersama Forkopimda, KPU, Panwas dan sejumlah Kepala OPD terkait di lingkungan Pemerintah Kabupaten Pemalang, Rabu (27/6/2018) melakukan monitoring pelaksanaan Pemilukada pemilihan Gubernur dan Wakil Gubernur Jawa Tengah Tahun 2018, di sejumlah TPS yang ada di Kabupaten Pemalang.
+
+            Monitoring ini, merupakan sebagai bentuk rasa tanggung jawab bersama, terhadap suksesnya pelaksanaan pemilihan Gubernur dan Wakil Gubernur Jawa Tengah tahun 2018, di wilayah Kabupaten Pemalang.
+
+            Saat berada di TPS 04 Desa Purwosari, Bupati mengatakan, pelaksanaan pemilukada pemilihan Gubernur dan Wakil Gubernur Jawa Tengah sampai dengan pukul 11.00 wib. jumlah pemilih yang datang di TPS sudah mencapai 50 %.
+        </p>
+
+        <p>
+            “Harapanya sampai dengan batas waktu pemungutan suara, sesuai dengan ketentuan, jumlah pemilih yang datang bisa mencapai target sampai dengan 100 %”, ujar Junaedi.
+        </p>
+
+        <p>
+            Sementara itu, anggota KPU Kabupaten Pemalang, Divisi Teknik Charrul Umam, saat menyertai Bupati mengatakan, di Kabupaten Pemalang ada sebanyak 2.416 (Dua ribu empat ratus enam belas) TPS pada pemilihan Gubernur dan Wakil Guubernur Jawa Tengah dan sesuai dengan hasil penetapan KPU Kabupaten Pemalang jumlah DPT sebanyak 1.076.230 pemillih.
+
+            Umam menambahkan, setelah penghitungan suara selesai di TPS, selanjutnya akan direkapitulasi di tingkat kecamatan, jadwal rekapitulasi dimulai 28 juni hingga 4 Juli 2018. Namun, menurut Umam KPU menginstruksikan kepada Panitia Pemilihan Kecamatan (PPK) agar melakukan rekapitulasi serentak di Kabupaten Pemalang mulai 29 Juni 2018, setelah selesai rekapitulasi ditingkat Kecamatan (PPK) selanjutnya akan direkapitulasi di tingkat Kabupaten pada tanggal 5 sampai dengan 7 Juli 2018.
+        </p>
+
+        <p>
+            “Kemudian direkapitulasi ditingkat Provinsi dan itu nanti yang akan menjadi hasil final”, ujar Umam.
+        </p>
+
+        <p>
+            Sedangkan untuk dapat memperoleh informasi hasil perolehan suara sementara paslon 1 dan 2 yang dilakukan dengan hitungan cepat, masyarakat bisa menyaksikan langsung melalui layar lebar yang disediakan Kantor KPU Pemalang, pada 27 Juni 2018 pukul 14.00 wib. Hitung cepat tersebut, akan diselesaikan pada pukul 00.00 wib. Namun angka tersebut bukanlah angka resmi, angka resmi adalah angka yang dikeluarkan dari hasil perolehan paslon berdasarkan hasil rapat rekapitulasi baik ditingkat Kecamatan maupun ditingkat KPU Kabupaten.
+            ” Htung cepat itu tidak bisa dijadikan sebagai patokan utama. Hitungan cepat hanya sebagai alat bantu agar masyarakat bisa mendapatkan informasi paling awal artinya, tidak bisa dijadikaan dasar bahwa hasilnya perolehannya akan seperti itu, perolehan pastinya setelah rapat rekapitulasi.”. kata Umam. (ay)
+        </p>
+    </div>
+</div>
+<?= $this->endSection(); ?>
