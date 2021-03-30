@@ -1,0 +1,185 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+
+<div class="berita">
+    <div class="header-text-berita">
+        <h2>Berita Terkini</h2>
+    </div>
+</div>
+
+
+
+<section class="content-allberita ">
+    <!-- =========1============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4">
+            <div class="content-img">
+                <img src="/img/berlam1.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Bupati Lakukan Monitoring di Sejumlah TPS</h3>
+                <div class="content-date">
+                    <span>Rabu,</span>
+                    <span>27 juni 2018</span>
+                </div>
+                <p>
+                    PEMALANG – Bupati Pemalang Junaedi, dan Wakil Bupati Pemalang Martono, bersama Forkopimda, KPU, Panwas dan sejumlah Kepala OPD terkait di lingkungan Pemerintah Kabupaten Pemalang.....
+                </p>
+                <p>
+                    <a href="/pages/berita7" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========2============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/berlam2.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Bupati Junaedi Monitoring Persiapan Pilkada Serentak</h3>
+                <div class="content-date">
+                    <span>Rabu,</span>
+                    <span>26 Juni 2018</span>
+                </div>
+                <p>
+                    PEMALANG – Guna mengetahui seberapa jauh kesiapan yang telah dilakukan dalam upaya suksesnya pelaksanaan Pilkada Serentak tahun 2018 di wilyahnya, Bupati Pemalang Junaedi ...
+                </p>
+                <p>
+                    <a href="/pages/berita8" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========3============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/berlam3.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Prestasi Olahraga Dapat Harumkan Nama Bangsa dan Negara</h3>
+                <div class="content-date">
+                    <span>Jumat,</span>
+                    <span>29 Juni 2018</span>
+                </div>
+                <p>
+                    PEMALANG – Olahraga tidak hanya terkait dengan masalah kesehatan fisik semata, namun terkait pula dengan harga diri dan martabat bangsa....
+                </p>
+                <p>
+                    <a href="/pages/berita9" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========4============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/berlam4.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Bupati dan Ketua TP. PKK Adakan Grebeg Pasar</h3>
+                <div class="content-date">
+                    <span>Rabu,</span>
+                    <span>4 Juni 2018</span>
+                </div>
+                <p>
+                    PEMALANG – Bupati Pemalang, H.Junaedi diwakili Staf Ahli Bupati Ni Wayan Asrini dan Ketua TP.PKK Kabupaten Pemalang, Hj.Irna Setiawati Junaedi beserta Organisasi Perangkat Daerah (OPD) di Lingkungan Pemerintah Kabupaten Pemlang....
+                </p>
+                <p>
+                    <a href="/pages/berita10" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========5============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/berlam5.jpg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Bupati dan Ketua TP PKK Kabupaten Pemalang Terima Penghargaan dari Presiden RI</h3>
+                <div class="content-date">
+                    <span>Jumat,</span>
+                    <span>6 Juli 2018</span>
+                </div>
+                <p>
+                    PEMALANG – Bupati Pemalang H. Junaedi,SH, MM, dan Ketua TP PKK Kabupaten Pemalang, Hj. Irna Setiawati, SE,MM, kembali menerima penghargaan Mangala Karya Kencana dari Presiden RI Joko Widodo.......
+                </p>
+                <p>
+                    <a href="/pages/berita11" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- =========6============== -->
+    <div class="row content-berita">
+        <div class="col-lg-4 ">
+            <div class="content-img">
+                <img src="/img/berlam6.jpeg" alt="content-berita" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="content-text">
+                <h3 class="content-title">Jembatan Penghubung Desa di Pemalang Ambrol, Warga Harus Berputar 65 Km</h3>
+                <div class="content-date">
+                    <span>Senin,</span>
+                    <span>15 Januari 2021</span>
+                </div>
+                <p>
+                    Pemalang - Jembatan Kali Ayer penghubung dua desa di Kecamatan Randudongkal, Kabupaten Pemalang, Jawa Tengah, ambrol tergerus arus sungai. Warga pun terpaksa berputar sejauh 65 kilometer untuk menuju kota kecamatan. ....
+                </p>
+                <p>
+                    <a href="/pages/berita12" class="btn" style="border-radius:20px;">Selengkapnya > </a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="pagination">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                </li>
+                <li class="page-item"><a class="page-link" href="/pages/berita">1</a></li>
+                <li class="page-item"><a class="page-link" href="/pages/beritalanjut2">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+
+<?= $this->endSection(); ?>
