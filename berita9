@@ -1,0 +1,43 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Prestasi Olahraga Dapat Harumkan Nama Bangsa dan Negara</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam3.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            PEMALANG – Olahraga tidak hanya terkait dengan masalah kesehatan fisik semata, namun terkait pula dengan harga diri dan martabat bangsa. Karena semakin banyak prestasi olahraga yang dapat diraih, maka akan semakin harum pula nama bangsa dan negara tersebut. Hal ini disampaikan Bupati Pemalang Junaedi, dalam sambutannya saat menyaksikan pelantikan pengurus Koni Kabupaten Pemalang Periode 2017-2021 oleh Ketua Umum KONI Provinsi Jawa Tengah Soebroto, Jum’at (29/6/2018) di Pendopo Kabupaten.
+            Bupati menambahkan, bahwa tak dapat dipungkiri, dengan prestasi olahraga dilevel internasional, nama Indonesia pun semakin dikenal dunia, terlebih lagi, Indonesia akan menjadi tuan rumah perhelatan olahraga internasional (18/8- 2/8 2018), yakni Asian Games 2018, dan Asian Para Games 2018.
+            “Di event tersebut, berbagai cabang olahraga akan di perlombakan dan para atlet dari tanah air sedang dipersiapkan dan dibina secara matang”, kata Junaedi.
+        </p>
+
+        <p>
+            Terkait dengan hal itu, Bupati berharap, jika atlet yang berasal dari Kabupaten Pemalang, suatu saat nanti dapat berkonstribusi untuk membela tanah air diajang internasional. Untuk mewujudkan mimpi tersebut, pihaknya minta kepada kepada segenap insan olahraga di Kabupaten Pemalang, terutama kepada jajaran pengurus KONI yang baru dilantik agar bisa memberikan perhatian dan dukungan secara fisik yang lebih besar kepada para atlet Pemalang.
+            ” Utamanya pada faktor teknis maupun psikologis, asupan makanan yang bergizi, sarana dan prasarana latihan yang memadahi, serta sistem pelatihan dan kompetisi yang profesional”, harap Junaedi.
+        </p>
+
+        <p>
+            Selain menyampaikan selamat kepada segenap pengurus KONI Kabupaten Pemalang yang baru saja dilantik, Bupati juga berpesan agar mereka dapat melaksanakan amanat yang baru diberikan dengan penuh tanggungjawab guna memajukan olahraga di Kabupaten Pemalang. Sedangkan kepada Pengurus lama, Bupati menyampaikan terimakasih dan penghargaan atas dedikasi dan pengabdian yang telah dilakukan selama periode kepengurusan dalam membina dan majukan olahraga di Kabupaten Pemalang.
+
+            Hadir dalam kegiatan itu, Wakil Bupati Martono, anggota Forkopimda Kabupaten Pemalang, Ketua Umum KONI Provinsi Jawa Tengah, Brigjen TNI (Purn) Soebroto, dan para Kepala OPD terkait di lingkungan Pemerintah Kabupaten Pemalang, Ketua Umum KONI Kabupaten Pemalang beserta segenap pengurusnya juga Ketua dan pengurus cabang olahraga di Kabupaten Pemalang. (ay)
+        </p>
+
+    </div>
+</div>
+<?= $this->endSection(); ?>
