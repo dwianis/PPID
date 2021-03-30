@@ -1,0 +1,286 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4"> Uji Coba Sekolah Tatap Muka di Jateng Mulai Digelar April, Ini Daftarnya</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/sek.jpeg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Semarang - Uji coba sekolah tatap muka untuk pelajar SMP, SMA, MA, dan SMK akan segera digelar di Jawa Tengah (Jateng). Uji coba sekolah tatap muka ini bakal digelar mulai April mendatang. Mana saja?
+            "Kita sudah siap semuanya dan dimulai 5-16 April sebagai uji coba tahap pertama atau rintisan. Uji coba akan dilakukan di 35 SMP, 35 SMA, 35 SMK dan 35 MA di masing-masing wilayah di Jawa Tengah. Untuk SD, TK dan PAUD belum dilakukan karena ada masukan dari para ahli termasuk Ikatan Dokter Indonesia (IDI) untuk menunda dulu," kata Gubernur Jawa Tengah, Ganjar Pranowo, saat ditemui di rumah dinasnya, Semarang, Senin (22/3/2021).
+        </p>
+
+        <p>
+            Ganjar menyebut evaluasi uji coba sekolah tatap muka tahap pertama bakal digelar pada 19-23 April 2021. Setelah evaluasi rampung, uji coba sekolah tatap muka tahap kedua bakal digelar 26 April 2021 sampai 7 Mei 2021. Pada uji coba tahap kedua ini jumlah siswa maupun sekolah yang mengikuti sekolah tatap muka bakal ditambah.
+
+            "Tanggal 12 Juli sampai September 2021 uji coba tahap ketiga ini diharapkan adaptasi kebiasaan baru sudah berjalan. Ini perluasan jumlah sekolah atau siswa dan ada standardisasi protokol. Ini desain yang kita berikan," jelasnya.
+        </p>
+
+        <p>Ganjar menegaskan para guru yang akan melakukan uji coba sekolah atau pembelajaran tatap muka (PTM) akan diberi vaksinasi COVID-19. Dia menyebut saat ini proses pendataan sedang berjalan.
+
+            "Selain itu, semua guru yang melaksanakan PTM saya minta divaksin semuanya agar mereka aman. Saya sudah meminta Disdikbud dan Dinkes menginventarisasi sekolah yang akan melaksanakan tatap muka dan melakukan vaksinasi secepatnya," tegasnya.
+        </p>
+        <p>
+            Sementara itu, Plt Kepala Dinas Pendidikan dan Kebudayaan Jateng, Hari Wuljanto, menambahkan dalam uji coba tersebut dalam sehari ada 70-110 siswa. Kemudian jam belajar tidak lebih dari empat jam pelajaran yang masing masing berdurasi 30 menit.
+
+            "Kalau ada satu siswa saja yang positif, maka PTM harus ditutup. Sekolah yang terdapat kasus positif, harus memperbaiki prokesnya, memenuhi sarana prasarananya dan jika setelah evaluasi dimungkinkan untuk dibuka kembali, maka akan dibuka. Jadi fleksibel," kata Hari.
+
+            Selanjutnya daftar sekolah yang menggelar uji coba pembelajaran tatap muka di jateng...
+
+        </p>
+
+        <p>
+
+        <ul>
+            <li> SMKN 7 Semarang,
+            <li> MAN 1 Kota Semarang,
+            <li> SMPN 5 Semarang
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Ungaran,
+            <li>SMKN 1 Tengarang,
+            <li>MAN 1 Semarang,
+            <li>SMPN 1 Ungaran
+        </ul>
+
+        <ul>
+            <li> SMAN 1 Demak
+            <li>SMKN 1 Demak
+            <li>MAN Demak
+            <li>SMPN 2 Demak
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Jepara
+            <li>SMKN 1 Kalinyamatan
+            <li>MAN 1 Jepara
+            <li>SMPN 2 Jepara
+        </ul>
+
+        <ul>
+            <li> SMAN 1 Bae Kudus
+            <li> SMK Wisuda Karya
+            <li> MA NU Banat Kudus
+            <li> SMPN 1 Jekulo
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Pati
+            <li>SMKN 1 Pati
+            <li>MAN 1 Pati
+            <li>SMPN 3 Pati
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Sulang Rembang
+            <li>SMKN 1 Rembang
+            <li> MAN 2 Rembang
+            <li>SMPN 1 Kragan
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Wirosari Grobogan
+            <li> SMKN 1 Purwodadi
+            <li>MAN 1 Grobogan
+            <li>SMPN 1 Grobogan
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Blora
+            <li>SMKN 1 Jepon
+            <li>MAN Blora
+            <li>SMPN 1 Todanan
+        </ul>
+
+        <ul>
+            <li>SMAN 2 Salatiga
+            <li>SMKN 1 Salatiga
+            <li>MAN Salatiga
+            <li>SMPN 2 Salatiga
+        </ul>
+
+        <ul>
+            <li>SMAN 2 Boyolali
+            <li>SMKN 1 Boyolali
+            <li>MAN 1 Boyolali
+            <li>SMPN 1 Boyolali
+
+        </ul>
+
+        <ul>
+            <li>SMPN 4 Solo Uji Coba Pembelajaran Tatap Muka
+            <li>SMAN 3 Klaten
+            <li>SMKN 3 Klaten
+            <li>MAN 1 Klaten
+            <li>SMPN 2 Klaten
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Karanganyar
+            <li>SMKN 1 Karanganyar
+            <li>MAN 1 Karanganyar
+            <li>SMPN 1 Karanganyar
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Sragen
+            <li>SMKN 2 Sragen
+            <li>MAN 1 Sragen
+            <li>SMPN 1 Sragen
+        </ul>
+
+        <ul>
+            <li> SMAN 1 Wonogiri
+            <li>SMKN 1 Wonogiri
+            <li>MAN Wonogiri
+            <li>SMPN 1 Wonogiri
+        </ul>
+
+        <ul>
+            <li> SMAN 1 Surakarta
+            <li>SMKN 4 Surakarta
+            <li> MAN 1 Surakarta
+            <li>SMPN 4 Surakarta
+        </ul>
+
+        <ul>
+            <li> SMAN 1 Sukoharjo
+            <li> SMKN 1 Sukoharjo
+            <li>MAN Sukoharjo
+            <li> SMPN 1 Sukoharjo
+        </ul>
+
+        <ul>
+            <li> SMAN 3 Magelang
+            <li>SMKN 3 Magelang
+            <li>MAN Kota Magelang
+            <li>SMPN 1 Magelang
+        </ul>
+
+        <ul>
+            <li>SMA Pangudi Luhur Van Lith
+            <li>SMKN Ngablak
+            <li>MAN 2 Magelang
+            <li>SMPN 1 Mungkid
+        </ul>
+        <ul>
+            <li> SMAN 1 Purworejo
+            <li>SMKN 1 Purworejo
+            <li>MAN Purworejo
+            <li>SMPN 1 Purworejo
+        </ul>
+        <ul>
+            <li>SMAN 1 Parakan
+            <li>SMKN 1 Temanggung
+            <li>MAN Temanggung
+            <li>SMPN 2 Temanggung
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Wanadadi
+            <li>SMKN 1 Punggelan
+            <li>MAN 2 Banjarnegara
+            <li>SMPN 1 Madukara
+        </ul>
+
+        <ul>
+            <li> 1 Bobotsari
+            <li>SMKN 2 Purbalingga
+            <li>MAN Purbalingga
+            <li>SMPN 1 Purbalingga
+        </ul>
+
+        <ul>
+            <li>SMAN 1 Kebumen
+            <li>SMKN 2 Kebumen
+            <li>MAN 1 Kebumen
+            <li>SMPN 1 Kebumen
+        </ul>
+        <ul>
+            <li>SMAN 1 Wonosobo
+            <li>SMKN 1 Wonosobo
+            <li>MAN 2 Wonosobo
+            <li>SMPN 1 Kertek
+        </ul>
+
+        <ul>
+            <li>SMAN 2 Purwokerto
+            <li>SMKN 1 Banyumas
+            <li>MAN 1 Banyumas
+            <li>SMPN 9 Purwokerto
+        </ul>
+        <ul>
+            <li> SMAN 3 Cilacap
+            <li> SMKN 2 Cilacap
+            <li>MAN 1 Cilacap
+            <li>SMPN 1 Cilacap
+        </ul>
+
+        <ul>
+            <li>SMA Al Irsyad
+            <li>SMK Muhammadiyah 1 Tegal
+            <li>Kota Tegal
+            <li>SMPN 1 Tegal
+        </ul>
+        <ul>
+            <li>SMAN 3 Brebes
+            <li>SMKN 1 Kersana
+            <li>MAN 1 Brebes
+            <li>SMPN 1 Brebes
+        </ul>
+        <ul>
+            <li>SMAN 1 Kedungwuni
+            <li>SMKN 1 Sragi
+            <li>MAN Pekalongan
+            <li>SMPN 1 Petungkriyono
+        </ul>
+        <ul>
+            <li>SMAN 1 Pemalang
+            <li>SMK Muhammadiyah 1 Pemalang
+            <li>MAN Pemalang
+            <li>SMPN 1 Bodeh
+        </ul>
+        <ul>
+            <li>SMAn 3 Slawi
+            <li> SMKN 1 Slawi
+            <li>MAN 1 Tegal
+            <li> SMPN 1 Slawi
+        </ul>
+        <ul>
+            <li>SMAN 1 Kendal
+            <li>SMKN 2 Kendal
+            <li>MAN Kendal
+            <li>SMPN 1 Weleri
+        </ul>
+        <ul>
+            <li> SMAN 1 Gringsing
+            <li> SMKN 1 Warungasem
+            <li>MAN Batang
+            <li>SMPN 2 Batang
+        </ul>
+        <ul>
+            <li>SMAN 1 Pekalongan
+            <li>SMKN 2 Pekalongan
+            <li>MAN 1 Kota Pekalongan
+            <li>SMPN 2 Pekalongan
+        </ul>
+        </p>
+
+    </div>
+</div>
+<?= $this->endSection(); ?>
