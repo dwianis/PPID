@@ -1,0 +1,53 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">2 Bocah Hilang Saat Cari Bunglon di Hutan Pemalang Ditemukan Tewas </h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+        <img src="/img/bung.jpeg" height="100%">
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            Pemalang - Dua bocah bernama Dimas (9) dan Helmi (8) di Kabupaten Pemalang, Jawa Tengah, yang hilang usai pamit bermain sejak kemarin sore ditemukan meninggal. Jasad kedua korban ditemukan di kubangan air bekas galian C sekitar pukul 16.30 WIB tadi.
+            "Ya sudah ditemukan. Keduanya dalam kondisi meninggal di bekas galian C. Ini saya masih di rumah duka, nanti saya kabari lagi," kata Kapolsek Pemalang, AKP Kabul Santoso, saat dihubungi, Senin (22/3/2021).
+        </p>
+
+        <p>
+            Terpisah, relawan PMI Pemalang, Yakni Amir, mengatakan warga dan relawan melakukan pencarian sejak Minggu (21/3) kemarin. Pencarian dua bocah yang hilang ini difokuskan di dua lokasi yakni di hutan jati dan di lokasi korban terakhir berada, yakni di kubangan bekas galian C.
+
+            "Sebelum dikuras, awalnya itu (ketinggian) air sampai dua meter lebih. Setelah dikuras, ketinggian 150 cm, dan keduanya ditemukan," jelasnya.
+        </p>
+
+        <p>
+            "Jadi memang ada dua fokus pencarian yakni di hutan dan di sini (bekas galian C). Korban sudah kita evakuasi dan dibawa ke rumah duka," lanjutnya.
+
+            Diberitakan sebelumnya, dua bocah bernama Dimas (9) dan Helmi (8) di Kabupaten Pemalang, Jawa Tengah hilang usai pamit bermain sejak kemarin sore. Keluarga mengungkap keduanya sempat terlihat menuju hutan untuk mencari bunglon.
+
+            "Anak saya sebelumnya main sama empat anak. Dua anak lainnya sudah pulang lebih awal. Tapi anak saya sama anak tetangga, belum pulang sampai sekarang. Katanya berjalan menuju ke hutan," kata ibu Dimas, Ratini (35) kepada detikcom di rumahnya, Senin (22/3).
+
+            Sebelumnya, Dimas pamit pergi bermain pada Minggu (21/3) sekitar pukul 15.00 WIB. "Ya seperti biasanya anak saya pamit main, minta uang jajan. Biasanya pulang sebelum magrib. Tapi sampai sekarang belum pulang juga," lanjut dia.
+
+            Sementara itu, Kapolsek Pemalang, AKP Kabul Santoso, mengungkap petugas mencari di lokasi terakhir dua bocah ini terlihat.
+        </p>
+
+        <p>
+            "Kita susur dari terakhir kali anak terlihat hingga masuk kawasan hutan dan galian C, belum menemukan. Kita kerahkan semua relawan yang ada, belum ada hasilnya," kata Kabul kepada detikcom.
+
+            Menurutnya, beberapa warga memang sempat melihat adanya dua anak yang tengah berjalan di Jalan Raya Silarang.
+
+            "Kita terus mencari menyisir dari kawasan hutan hingga ke jalan raya hingga masuk hutan lagi. Belum ada hasilnya," imbuh Kabul.
+
+        </p>
+    </div>
+</div>
+<?= $this->endSection(); ?>
