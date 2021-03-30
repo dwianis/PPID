@@ -1,0 +1,42 @@
+<?= $this->extend('layout/template'); ?>
+
+
+<?= $this->section('content'); ?>
+<div class="container d-flex justify-content-center ">
+    <div class="berita1">
+        <h3 class="mt-4">Bupati dan Ketua TP. PKK Adakan Grebeg Pasar</h3>
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1">
+
+        <img src="/img/berlam4.jpg" height="100%">
+
+    </div>
+</div>
+
+
+<div class="container d-flex justify-content-center">
+    <div class="berita1 " style=" text-align: justify; box-sizing: border-box; margin: 0px 0px 17px; color: rgb(88, 88, 88); font-size: 15px;">
+        <p>
+            PEMALANG – Bupati Pemalang, H.Junaedi diwakili Staf Ahli Bupati Ni Wayan Asrini dan Ketua TP.PKK Kabupaten Pemalang, Hj.Irna Setiawati Junaedi beserta Organisasi Perangkat Daerah (OPD) di Lingkungan Pemerintah Kabupaten Pemalang, Rabu (4/6/2018) kembali turun lapangan dalam kegiatan Gerakan Bersama Keluarga Pas Sasaran (Grebeg Pasar) putaran Ke-9, di Desa/Kecamatan Warungpring.
+
+            Sebelum melakukan penanaman pohon dan simulasi Cuci Tangan Pakai Sabun (CTPS) bersama warga setempat, Hj.Irna melakukan Senam Prolanis di Halaman Balai Desa Warungpring. Acara dilanjutkan dengan membagikan garam yodium merk Murni produk TP.PKK Kabupaten Pemalang kepada para pedagang dan pengunjung pasar desa setempat.
+
+            Dalam acara serimonial yang masih berada di lingkungan pasar Desa Warungpring, Kepada Bupati Pemalang, yang diwakili Ketua TP.PKK Kabupaten Pemalang, Hj.Irna melaporkan kegiatan Grebeg Pasar. Acara dilanjutkan dengan penyerahan bantuan berupa alat-alat kebersihan dari Bupati Pemalang yang didampingi Hj.Irna, kepada pengelola Pasar Desa Warungpring dan pedagang pasar tersebut.
+        </p>
+
+        <p>
+            Bupati Pemalang, H.Junaedi dalam teks sambutanya yang dibacakan Staf Ahli Bupati, Ni Wayan Asrini mengatakan, Grebeg Pasar merupakan program yang harus kita sukseskan bersama. Karena keberadaan pasar memiliki tiga aspek penting. yaitu pasar sebagai wahana, sebagai komonitas dan pasar sebagai institusi.
+
+            Sebelumnya, dalam laporanya, Ketua TP.PKK Kabupaten Pemalang, Ny. Hj.Irna Setiawati Junaedi menyampaikan, Grebeg Pasar disamping untuk meningkarkan kesadaran masyarakat akan pentingnya kesehatan diri dan lingkungan, juga bertujuan untuk meningkatkan konsumsi garam beryodium. Grebeg pasar juga dilakukan sebagai media promosi Perilaku Hidup Bersih dan Sehat (PHBS)
+
+            Selain membagikan garam yodium, Beberapa kegiatan dalam Grebeg Pasar di Desa Warungpring Antara lain, bersih-bersih pasar, saber sampah, tes garam yodium, tes makanan, tes kesehatan dan tes timbangan tera. (ay)
+        </p>
+
+    </div>
+</div>
+
+<?= $this->endSection(); ?>
