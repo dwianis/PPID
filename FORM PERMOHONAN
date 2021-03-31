@@ -1,0 +1,104 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+<section class="konten-form" style="margin:50px;">
+    <div class="tugas">
+        <div class="header-text-tugas">
+            <h2>Beranda / Layanan / Formulir Permohonan Informasi</h2>
+        </div>
+    </div>
+</section>
+
+
+<div class="container justify-content-center">
+    <div class="silahkan" style="font-family:poppins;font-size:16px; font-weight:500; margin:20px;">
+        <p> Silahkan Klik Link Disamping Untuk Download Formulir atau Isi form dibawah ini : <button type="button" class="btn" data-toggle="modal" data-target="#exampleModal" style="color:#fff;border-radius: 20px; background-color:#f89406">
+                <i class="fas fa-download" style="padding:5px;"></i> Download
+            </button>
+        </p>
+    </div>
+    <section class="wrapform" style="margin: 50px;">
+        <div class="card-header" style="font-size: 18px;">
+            Form Permohonan Informasi
+        </div>
+
+        <div class="pengajuan" style="margin:0;padding: 20px;;box-shadow: 0 0.7rem 0.7rem rgba(170, 170, 170, 0.5);">
+            <form style="font-family:poppins;font-size:16px;">
+                <div class="form-group">
+                    <label for="formGroupExampleInput" style="font-weight:bold;">Nama Lengkap</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1" style="font-weight:bold;">Alamat</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput" style="font-weight:bold;">Pekerjaan</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="">
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput" style="font-weight:bold;">No Telepon / Hp</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Nomor Telepon atau HP aktif">
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput" style="font-weight:bold;">Email</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="masukkan email">
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1" style="font-weight:bold;">Rincian yang dibutuhkan<span style="font-weight: normal;"> (tambah keterangan bila perlu)</span>
+                    </label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1" style="font-weight:bold;">Tujuan Penggunaan Informasi </label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="formGroupExampleInput2" style="font-weight:bold;">Scan/Foto KTP</label>
+                    <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="customFile">
+                        <label class="custom-file-label" for="customFile">Choose file</label>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="formGroupExampleInput2" style="font-weight:bold;">Cara Perolehan </label>
+                    <select class="custom-select">
+                        <option selected>--Pilih Cara Perolehan--</option>
+                        <option value="1">Mendapatkan Salinan Softcopy</option>
+                        <option value="2">Mendapatkan Salinan Hardcopy</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput2" style="font-weight:bold;">Format Informasi</label>
+                    <select class="custom-select">
+                        <option selected>--Pilih Format Informasi--</option>
+                        <option value="1">Download di Internet</option>
+                        <option value="2">Ambil Langsung</option>
+                        <option value="3">Kurir</option>
+                        <option value="4">Pos</option>
+                        <option value="5">Faxmile</option>
+                        <option value="6">Email</option>
+                    </select>
+                </div>
+
+                <div class="form-permohonan " style="margin: 20px;">
+                    <a class="btn btn permohonan " style=" background-color:#00b16a;border-radius:10px;color:#fff" href="#"><i class="fas fa-check" style="margin: 5px;"></i>Buat Permohonan</a>
+                </div>
+            </form>
+
+
+        </div>
+
+
+    </section>
+
+
+</div>
+
+
+
+<?= $this->endSection(); ?>
