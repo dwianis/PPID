@@ -1,0 +1,174 @@
+<?= $this->extend('layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="container">
+            <div class="carousel-item active">
+
+                <div class="row pt-5 justify-content-center">
+                    <div class="col-9 col-sm-4 col-md-6 col-lg-5">
+                        <h1 class="mb-4">Selamat Datang Di Website PPID Utama Kab.Pemalang</h1>
+                        <p class="mb-4">Eklusif Platform untuk mendapatkan informasi publik</p>
+                        <a href="https://ppid.batangkab.go.id/daftar-informasi-berkala" class="btn btn-warning text-white">Selengkapnya</a>
+                    </div>
+                    <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
+                        <img src="/img/un1.svg" class="img-fluid">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="carousel-item">
+                <div class="row pt-5 justify-content-center">
+                    <div class="col-9 col-sm-4 col-md-6 col-lg-5">
+                        <h1 class="mb-4">Selamat Datang Di Website PPID Utama Kab.Pemalang</h1>
+                        <p>Dapatkan Informasi Lebih Cepat dan Mudah</p>
+                        <p class="mb-4">Melalui Aplikasi Berbasis Android</p>
+                        <a href="https://drive.google.com/file/d/1ckfagg_n_MpEZU46yqizDtpsyW7zWmh0/view?usp=sharing" target="_blank" class="btn btn-warning text-white">Download Sekarang</a>
+                    </div>
+                    <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
+                        <img src="/img/un2.svg" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="carousel-item">
+                <div class="row pt-5 justify-content-center">
+                    <div class="col-9 col-sm-4 col-md-6 col-lg-5">
+                        <h1 class="mb-4">Selamat Datang Di Website PPID Utama Kab. Pemalang</h1>
+                        <p class="mb-4">Melayani Informasi Dengan Ikhlas</p>
+                        <a href="https://ppid.batangkab.go.id/daftar-informasi-setiap-saat" class="btn btn-warning text-white">Selengkapnya</a>
+                    </div>
+                    <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
+                        <img src="/img/un3.svg" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="carousel-item">
+                <div class="row pt-5 justify-content-center">
+                    <div class="col-9 col-sm-4 col-md-6 col-lg-5">
+                        <h1 class="mb-4">Selamat Datang Di Website PPID Utama Kab.Pemalang</h1>
+                        <p class="mb-4">Terwujudnya Layanan Informasi Yang Akurat</p>
+                        <a href="https://ppid.batangkab.go.id/daftar-informasi-serta-merta" class="btn btn-warning text-white">Selengkapnya</a>
+                    </div>
+                    <div class="col-3 col-sm-6 col-md-4 col-lg-4 d-none d-sm-block offset-1">
+                        <img src="https://ppid.batangkab.go.id/assets_frontend/img2/slideshow/3.png" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+
+
+        <div class="tugas">
+            <div class="header-text-tugas">
+                <h2>Beranda / Profil / Struktur PPID</h2>
+            </div>
+        </div>
+
+        <div class="container justify-content-center">
+            <div class="struktur" style="margin:40px;">
+                <div class="card bg-light mb-5" style="padding:8px; width: 100%; box-shadow: 0 0.5rem 1rem 0.2rem rgba(170, 170, 170, 0.5);">
+                    <div class="card-header">Struktur PPID</div>
+                    <div class="card-body" style="font-size:14px;">
+                        <p class="card-profil" style="font-size:16px; font-weight:600;">Profil Singkat PPID Kabupaten Pemalang</p>
+                        <p class="card-text">
+                            Pembina
+                            :
+                            Bupati Pemalang</p>
+                        <p class=" card-text">
+                            Pembina
+                            :
+                            Wakil Bupati Pemalang
+                        </p>
+                        <p class="card-text">
+                            Pengarah
+
+                            :
+
+                            Sekretaris Daerah Kabupaten Pemalang selaku Atasan PPID
+                        </p>
+                        <p class="card-text">
+                            Tim Pertimbangan
+
+                            :
+
+                            Asisten Sekda, Kepala Perangkat Daerah, Kabag Hukum Setda Kabupaten Pemalang
+                        </p>
+                        <p class="card-text">
+                            PPID Utama
+
+                            :
+
+                            Kepala Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                        </p>
+                        <p class="card-text">
+                            PPID Pembantu
+
+                            :
+
+                            Sekretaris Perangkat Daerah, Kasubbag TU, Direktur RSUD, Direktur BUMD
+                        </p>
+                        <p class="card-text">
+                            Sekretariat PLID
+
+                            :
+
+                            Kepala Bidang Pengelolaan Informasi dan Komunikasi Publik (PIKP) Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                        </p>
+                        <p class="card-text">
+                            Bidang Pengolahan Data dan Klasifikasi Informasi
+
+                            :
+
+                            Kepala Seksi Informasi Publik pada Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                        </p>
+                        <p class="card-text">
+                            Bidang Pelayanan Informasi dan Dokumentasi
+
+                            :
+
+                            Kepala Seksi Komunikasi Publik pada Dinas Komunikasi dan Informatika Kabupaten Pemalang
+                        </p>
+                        <p class="card-text">
+                            Bidang Fasilitasi Sengketa Informasi
+
+                            :
+
+                            Kasubbag Bantuan Hukum dan HAM pada Bagian Hukum Setda Kabupaten Pemalang
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <?= $this->endSection(); ?>
+        
+        
+        
+        
+        
+        //////////////////CSS///////////////////////////////////
+        .carousel {
+  height: 450px;
+  /* background-color: #e9effb; */
+  background-color: #3790e9;
+  color: white;
+  position: relative;
+}
